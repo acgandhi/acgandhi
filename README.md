@@ -23,9 +23,9 @@ Some of the things I've done:
 <img align="left" alt="Bash" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/bash.svg" />
 <img align="top" alt="Git" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/git.svg" />
 
-<img align="left" alt="NumPy" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/numpy.svg" />
 <img align="left" alt="Tensorflow" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/tensorflow.svg" />
 <img align="left" alt="PyTorch" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/pytorch.svg" />  
+<img align="left" alt="NumPy" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/numpy.svg" />
 <img align="left" alt="Conda" height="30px" src="https://docs.conda.io/en/latest/_images/conda_logo.svg" />
 
 
