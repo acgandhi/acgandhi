@@ -20,7 +20,7 @@ Some of the things I've done:
 <img align="top" alt="Flask" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/flask.svg" />
 
 <img align="left" alt="IntelliJ IDEA" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/intellij-idea.svg" />
-<img align="left" alt="PyCharm" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/pycharm.svg" />
+<img align="left" alt="Jupyter" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/jupyter.svg" />
 <img align="left" alt="Visual Studio Code" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/visual-studio-code.svg" />
 <img align="left" alt="Bash" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/bash.svg" />
 <img align="top" alt="Git" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/git.svg" />
@@ -31,8 +31,7 @@ Some of the things I've done:
 <img align="top" alt="Conda" height="30px" src="https://docs.conda.io/en/latest/_images/conda_logo.svg" />
 
 
-<br />
-<br />
+
 <br />
 
 
