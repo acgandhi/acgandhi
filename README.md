@@ -4,7 +4,7 @@ I'm a sophomore Computer Science student at Cal Poly Pomona, who's interested in
 
 Some of the things I've done:
  - Worked on [machine learning research](https://github.com/spider-sense/DeepBlur) to detect small handheld objects in blurry video
- - Developed a full-stack web app to offer data-driven analytics to Leauge of Legends players
+ - Developed a full-stack web app to offer data-driven analytics to League of Legends players
  - Led the software development for my [high school's robotics team](https://github.com/whsrobotics)
 
 ### Languages / Tools:
