@@ -1,8 +1,9 @@
 ### 👋 Hello there! 
 
-I'm a sophomore Computer Science student at Cal Poly Pomona, who's interested in machine learning. 
+I'm a junior Computer Science student at Cal Poly Pomona! 
 
 Some of the things I've done:
+ - Interned at [VMware](https://github.com/vmware), where I deployed open-source software in a self-hosted k8s homelab (check out [my blog](https://homelab.acgandhi.com))
  - Worked on [machine learning research](https://github.com/spider-sense/DeepBlur) to detect small handheld objects in blurry video
  - Developed a full-stack web app to offer data-driven analytics to League of Legends players
  - Led the software development for my [high school's robotics team](https://github.com/whsrobotics)
@@ -31,6 +32,8 @@ Some of the things I've done:
 <img align="left" alt="NumPy" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/numpy.svg" />
 <img align="top" alt="Conda" height="30px" src="https://docs.conda.io/en/latest/_images/conda_logo.svg" />
 
+<img align="left" alt="Kubernetes" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" />
+<img align="top" alt="Docker" height="30px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" />
 
 
 <br />
