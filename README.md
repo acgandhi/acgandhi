@@ -18,7 +18,7 @@ Some of the things I've done:
 <img align="left" alt="CSS 3" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/css-3.svg" />
 <img align="left" alt="JavaScript" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/javascript.svg" />
 <img align="left" alt="React" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/react.svg" />
-<img align="left" alt="React" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/php.svg" />
+<img align="left" alt="PHP" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/php.svg" />
 <img align="top" alt="Flask" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/flask.svg" />
 
 <img align="left" alt="IntelliJ IDEA" height="30px" src="https://github.com/gilbarbara/logos/blob/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/intellij-idea.svg" />
