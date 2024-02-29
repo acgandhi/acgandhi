@@ -1,6 +1,6 @@
 ## 👋 Hello there! 
 
-I'm a junior Computer Science student at Cal Poly Pomona! 
+I'm a senior Computer Science student at Cal Poly Pomona! 
 
 Some of the things I've done:
  - Interned at [VMware](https://github.com/vmware), where I deployed open-source software in a self-hosted k8s homelab (check out [my blog](https://homelab.acgandhi.com))
